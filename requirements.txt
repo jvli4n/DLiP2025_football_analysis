@@ -6,7 +6,6 @@ tqdm
 IPython
 pandas
 kloppy
-kloppy.domain
 sklearn
 torch
 torchmetrics
