@@ -5,7 +5,6 @@ pathlib
 tqdm
 IPython
 pandas
-concurrent
 kloppy
 kloppy.domain
 sklearn
