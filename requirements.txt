@@ -6,6 +6,6 @@ tqdm
 IPython
 pandas
 kloppy
-sklearn
+scikit-learn
 torch
 torchmetrics
