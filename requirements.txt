@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+pathlib
+zipfile
+tqdm
+IPython
+pandas
+concurrent
+kloppy
+kloppy.domain
+sklearn
+torch
+torchmetrics
